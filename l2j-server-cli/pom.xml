@@ -15,7 +15,7 @@
 		<slf4j.version>1.7.25</slf4j.version>
 		<log4j.version>2.11.1</log4j.version>
 		<mysql-connector-java.version>8.0.15</mysql-connector-java.version>
-		<commons-configuration2.version>2.4</commons-configuration2.version>
+		<commons-configuration2.version>2.7</commons-configuration2.version>
 		<commons-beanutils.version>1.9.3</commons-beanutils.version>
 		<asciitable.version>0.3.2</asciitable.version>
 		<!-- Plugins -->
