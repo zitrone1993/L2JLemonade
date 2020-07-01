@@ -11,7 +11,7 @@
 		<maven.compiler.target>11</maven.compiler.target>
 		<slf4j.version>1.7.25</slf4j.version>
 		<mariadb-java-client.version>2.4.0</mariadb-java-client.version>
-		<mysql-connector-java.version>8.0.15</mysql-connector-java.version>
+		<mysql-connector-java.version>8.0.16</mysql-connector-java.version>
 		<HikariCP.version>3.3.1</HikariCP.version>
 		<c3p0.version>0.9.5.3</c3p0.version>
 		<bonecp.version>0.8.0.RELEASE</bonecp.version>
